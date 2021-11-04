@@ -22,7 +22,7 @@ yarn run build
 
 ### 效果图
 
-![效果图](https://raw.githubusercontent.com/libing-cheer/table-header-tips/master/src/assets/tooltip.png)
+![效果图](https://github.com/libing-cheer/column-options/blob/main/src/assets/columnOptions.png?raw=true)
 
 ### 引用 element-ui
 
